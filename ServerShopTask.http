@@ -1,0 +1,6 @@
+@ServerShopTask_HostAddress = http://localhost:5008
+
+GET {{ServerShopTask_HostAddress}}/products
+Accept: application/json
+
+###
